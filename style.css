@@ -1,0 +1,26 @@
+body
+{
+text-align:center;
+font-family:'Nunito',sans-serif;
+}
+.heading{
+font-family: 'Gideon Roman', cursive;
+width:100%;
+}
+h4{
+    background-color:white;
+    line-height:2;
+    margin:0px;
+
+}
+.modal-dialog{
+    width:90%;
+}
+h5{
+    margin-bottom:auto;
+    color:lightgray;
+}
+#instructions{
+    float:right;
+    margin-bottom:10px;
+}
